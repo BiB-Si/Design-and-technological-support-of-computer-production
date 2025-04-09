@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Страница — 1" id="CLNIUGPtDbDxv4ljSgYw">
-    <mxGraphModel>
+    <mxGraphModel dx="1383" dy="164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="410" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="950" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-2" value="Прибор для защиты аппаратуры от перегрева" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-3" value="Датчик температуры" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="70" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="peH1K-CHpm_S5tcDr0NW-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="250" as="sourcePoint" />
+            <mxPoint x="210" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="peH1K-CHpm_S5tcDr0NW-5" target="peH1K-CHpm_S5tcDr0NW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-5" value="Сетевой фильтр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-6" value="Стабилизатор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
