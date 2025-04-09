@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Страница — 1" id="CLNIUGPtDbDxv4ljSgYw">
-    <mxGraphModel dx="2678" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2164" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -557,9 +557,6 @@
         <mxCell id="peH1K-CHpm_S5tcDr0NW-208" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="604" y="750" width="16" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="peH1K-CHpm_S5tcDr0NW-209" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="585" width="970" height="510" as="geometry" />
-        </mxCell>
         <mxCell id="peH1K-CHpm_S5tcDr0NW-210" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="786" width="30" height="60" as="geometry" />
         </mxCell>
@@ -949,6 +946,117 @@
         </mxCell>
         <mxCell id="peH1K-CHpm_S5tcDr0NW-294" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1889" y="785" width="16" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-296" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1241" y="940" as="sourcePoint" />
+            <mxPoint x="1241" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-297" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="940" as="sourcePoint" />
+            <mxPoint x="1620" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-298" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1615" y="943.5" as="sourcePoint" />
+            <mxPoint x="1615" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-299" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="680" as="sourcePoint" />
+            <mxPoint x="1620" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-300" value="Блок обеспечения питания" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-301" value="Напряжение от зарядного&amp;nbsp; устройства" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="846" width="159" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-302" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1870" y="680" as="sourcePoint" />
+            <mxPoint x="2000" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-303" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1870" y="850" as="sourcePoint" />
+            <mxPoint x="1870" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-304" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1870" y="850" as="sourcePoint" />
+            <mxPoint x="2000" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-305" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2000" y="850" as="sourcePoint" />
+            <mxPoint x="2000" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-306" value="Датчик температуры" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1915" y="690" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-307" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1630" y="848.5" as="sourcePoint" />
+            <mxPoint x="1630" y="678.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-308" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1630" y="850" as="sourcePoint" />
+            <mxPoint x="1830" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-309" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1830" y="850" as="sourcePoint" />
+            <mxPoint x="1830" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-310" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1630" y="680" as="sourcePoint" />
+            <mxPoint x="1830" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-311" value="Блок микроконтроллера" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1664" y="680" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-312" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1860" y="980" as="sourcePoint" />
+            <mxPoint x="1860" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-313" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1860" y="880" as="sourcePoint" />
+            <mxPoint x="2020" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-314" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2020" y="980" as="sourcePoint" />
+            <mxPoint x="2020" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-315" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1860" y="980" as="sourcePoint" />
+            <mxPoint x="2020" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peH1K-CHpm_S5tcDr0NW-316" value="Сигнал на отключение нагрузки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="950" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
