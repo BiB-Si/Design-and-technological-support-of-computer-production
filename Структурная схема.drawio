@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Страница — 1" id="CLNIUGPtDbDxv4ljSgYw">
-    <mxGraphModel dx="2544" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2643" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1186,8 +1186,10 @@
         <mxCell id="h0eCEv6qlY3IFaY6QveD-32" value="Прибор для защиты аппаратуры от перегрева" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1440" y="605" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h0eCEv6qlY3IFaY6QveD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0eCEv6qlY3IFaY6QveD-34" target="h0eCEv6qlY3IFaY6QveD-49">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="h0eCEv6qlY3IFaY6QveD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0eCEv6qlY3IFaY6QveD-34" target="h0eCEv6qlY3IFaY6QveD-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-730" y="660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="h0eCEv6qlY3IFaY6QveD-34" value="Датчик температуры" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1135" y="627.5" width="210" height="65" as="geometry" />
@@ -1211,7 +1213,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0eCEv6qlY3IFaY6QveD-43" value="Генератор сигнала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="945" width="120" height="60" as="geometry" />
+          <mxGeometry x="-706" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0eCEv6qlY3IFaY6QveD-44" value="От источника 5 В" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1350" y="800" width="120" height="30" as="geometry" />
@@ -1225,12 +1227,6 @@
         <mxCell id="h0eCEv6qlY3IFaY6QveD-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.573;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h0eCEv6qlY3IFaY6QveD-46" target="h0eCEv6qlY3IFaY6QveD-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0eCEv6qlY3IFaY6QveD-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0eCEv6qlY3IFaY6QveD-49" target="h0eCEv6qlY3IFaY6QveD-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h0eCEv6qlY3IFaY6QveD-49" value="Операционный усилитель" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="615" width="160" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="h0eCEv6qlY3IFaY6QveD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.826;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h0eCEv6qlY3IFaY6QveD-52" target="h0eCEv6qlY3IFaY6QveD-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-850" y="945" as="targetPoint" />
@@ -1240,7 +1236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0eCEv6qlY3IFaY6QveD-52" value="Компаратор (порог 120)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="765" width="120" height="60" as="geometry" />
+          <mxGeometry x="-710" y="630.5" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
