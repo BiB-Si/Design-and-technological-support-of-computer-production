@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Страница — 1" id="CLNIUGPtDbDxv4ljSgYw">
-    <mxGraphModel dx="4452" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4654" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1346,7 +1346,7 @@
             <mxPoint x="-2220" y="193" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ffivyxHpcq-V17funt-0-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ffivyxHpcq-V17funt-0-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ffivyxHpcq-V17funt-0-160">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2230" y="500" as="sourcePoint" />
             <mxPoint x="-2230" y="290" as="targetPoint" />
@@ -1478,7 +1478,7 @@
             <mxPoint x="-2040" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ffivyxHpcq-V17funt-0-139" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ffivyxHpcq-V17funt-0-139" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ffivyxHpcq-V17funt-0-159">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2230" y="360" as="sourcePoint" />
             <mxPoint x="-2040" y="360" as="targetPoint" />
@@ -1510,7 +1510,7 @@
         </mxCell>
         <mxCell id="ffivyxHpcq-V17funt-0-144" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2190" y="360" as="sourcePoint" />
+            <mxPoint x="-2190" y="330" as="sourcePoint" />
             <mxPoint x="-2190" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1523,7 +1523,7 @@
         <mxCell id="ffivyxHpcq-V17funt-0-146" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1680" y="490" as="sourcePoint" />
-            <mxPoint x="-1680" y="190" as="targetPoint" />
+            <mxPoint x="-1680" y="193" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ffivyxHpcq-V17funt-0-147" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -1561,6 +1561,84 @@
             <mxPoint x="-2230" y="500" as="sourcePoint" />
             <mxPoint x="-2000" y="500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-157" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="-1690" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-158" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="ffivyxHpcq-V17funt-0-159">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2230" y="360" as="sourcePoint" />
+            <mxPoint x="-2040" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-159" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="-2240" y="349" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-160" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="-2240" y="490.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-161" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1980" y="340" as="sourcePoint" />
+            <mxPoint x="-1960" y="339.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-162" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1980" y="369.25" as="sourcePoint" />
+            <mxPoint x="-1960" y="369" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-163" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1819" y="279.26" as="sourcePoint" />
+            <mxPoint x="-1799" y="279.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-164" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1819" y="340.5" as="sourcePoint" />
+            <mxPoint x="-1799" y="340.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-165" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1819" y="372.26" as="sourcePoint" />
+            <mxPoint x="-1799" y="372.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-166" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1979" y="263" width="20" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-167" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1979" y="298" width="20" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-168" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1979" y="328.25" width="20" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-169" value="4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1979" y="357" width="20" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-170" value="5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1819" y="359.25" width="20" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-171" value="6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1819" y="327.5" width="20" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-172" value="7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1819" y="295" width="20" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-173" value="8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1819" y="267" width="20" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-174" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ffivyxHpcq-V17funt-0-175">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2230" y="330" as="sourcePoint" />
+            <mxPoint x="-2190" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-175" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="-2240" y="320" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
