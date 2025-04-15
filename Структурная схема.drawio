@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ffivyxHpcq-V17funt-0-176" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2724" y="160" width="1070" height="460" as="geometry" />
-        </mxCell>
         <mxCell id="ffivyxHpcq-V17funt-0-136" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2040.26" y="275" as="sourcePoint" />
@@ -1538,9 +1535,9 @@
         <mxCell id="ffivyxHpcq-V17funt-0-148" value="R1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1748.5" y="330.25" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ffivyxHpcq-V17funt-0-149" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ffivyxHpcq-V17funt-0-152">
+        <mxCell id="ffivyxHpcq-V17funt-0-149" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2000" y="460" as="sourcePoint" />
+            <mxPoint x="-2000" y="440" as="sourcePoint" />
             <mxPoint x="-2000" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1548,21 +1545,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2000" y="310" as="sourcePoint" />
             <mxPoint x="-1980" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ffivyxHpcq-V17funt-0-152" value="B1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2024" y="450" width="47" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ffivyxHpcq-V17funt-0-153" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2000" y="500" as="sourcePoint" />
-            <mxPoint x="-2001" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ffivyxHpcq-V17funt-0-154" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2230" y="500" as="sourcePoint" />
-            <mxPoint x="-2000" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ffivyxHpcq-V17funt-0-157" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
@@ -1649,23 +1631,62 @@
             <mxPoint x="-1800" y="193" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ffivyxHpcq-V17funt-0-178" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ffivyxHpcq-V17funt-0-169">
+        <mxCell id="ffivyxHpcq-V17funt-0-178" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1980" y="430" as="sourcePoint" />
-            <mxPoint x="-1990" y="390" as="targetPoint" />
+            <mxPoint x="-1980" y="500" as="sourcePoint" />
+            <mxPoint x="-1980" y="370" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ffivyxHpcq-V17funt-0-179" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ffivyxHpcq-V17funt-0-182">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2230" y="430" as="sourcePoint" />
-            <mxPoint x="-1980" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ffivyxHpcq-V17funt-0-182" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="-2240" y="420" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ffivyxHpcq-V17funt-0-183" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="-1810" y="183" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-190" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2150" y="429.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-191" value="+5В" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2090" y="429.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-192" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2150" y="449.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-193" value="GND" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2090" y="449.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-194" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Контакт&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2150" y="410.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-195" value="Цепь" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2090" y="410.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-196" value="&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;B1&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2160" y="379.25" width="65" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-197" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ffivyxHpcq-V17funt-0-191">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2190" y="420" as="sourcePoint" />
+            <mxPoint x="-2000" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-198" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ffivyxHpcq-V17funt-0-160">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2040" y="530" as="sourcePoint" />
+            <mxPoint x="-1980" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-199" value="" style="endArrow=none;html=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ffivyxHpcq-V17funt-0-201">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2020" y="490" as="sourcePoint" />
+            <mxPoint x="-1980" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-200" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ffivyxHpcq-V17funt-0-193" target="ffivyxHpcq-V17funt-0-201">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2030" y="460" as="sourcePoint" />
+            <mxPoint x="-1980" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ffivyxHpcq-V17funt-0-201" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="-1990" y="450" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
