@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Страница — 1" id="CLNIUGPtDbDxv4ljSgYw">
-    <mxGraphModel dx="6568" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6568" dy="1992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-262" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4640" y="-15" width="1430" height="635" as="geometry" />
+        </mxCell>
         <mxCell id="GuHZtdWxIIQjd2K6WMsj-261" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2990" y="30" width="1410" height="560" as="geometry" />
         </mxCell>
@@ -2938,19 +2941,19 @@
         </mxCell>
         <mxCell id="GuHZtdWxIIQjd2K6WMsj-178" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4260" y="290" as="sourcePoint" />
-            <mxPoint x="-4260" y="150" as="targetPoint" />
+            <mxPoint x="-4590" y="286" as="sourcePoint" />
+            <mxPoint x="-4590" y="146" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GuHZtdWxIIQjd2K6WMsj-182" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4260" y="145" as="sourcePoint" />
+            <mxPoint x="-4590" y="145" as="sourcePoint" />
             <mxPoint x="-3870" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GuHZtdWxIIQjd2K6WMsj-183" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4260" y="292.25" as="sourcePoint" />
+            <mxPoint x="-4590" y="290" as="sourcePoint" />
             <mxPoint x="-3870" y="292.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2961,7 +2964,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GuHZtdWxIIQjd2K6WMsj-185" value="Блок обеспечения питания" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-4260" y="146" width="180" height="30" as="geometry" />
+          <mxGeometry x="-4290" y="146" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GuHZtdWxIIQjd2K6WMsj-186" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
