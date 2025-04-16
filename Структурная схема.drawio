@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Страница — 1" id="CLNIUGPtDbDxv4ljSgYw">
-    <mxGraphModel dx="5565" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6042" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2962,6 +2962,114 @@
         </mxCell>
         <mxCell id="GuHZtdWxIIQjd2K6WMsj-185" value="Блок обеспечения питания" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3870" y="156" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-186" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3476" y="390" as="sourcePoint" />
+            <mxPoint x="-3476" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-187" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3476" y="10" as="sourcePoint" />
+            <mxPoint x="-3226" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-188" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3226" y="390" as="sourcePoint" />
+            <mxPoint x="-3226" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-189" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3480" y="390" as="sourcePoint" />
+            <mxPoint x="-3230" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-190" value="Термистор и делитель напряжения" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3480" y="10" width="260" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-191" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3223" y="430" as="sourcePoint" />
+            <mxPoint x="-3223" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-192" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3220" y="190" as="sourcePoint" />
+            <mxPoint x="-3020" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-193" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3020" y="430" as="sourcePoint" />
+            <mxPoint x="-3020" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-194" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3220" y="430" as="sourcePoint" />
+            <mxPoint x="-3020" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-195" value="Блок обработки сигнала" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3224" y="211.5" width="179" height="52.75" as="geometry" />
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-196" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3010" y="600" as="sourcePoint" />
+            <mxPoint x="-3010" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-197" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3010" y="600" as="sourcePoint" />
+            <mxPoint x="-2870" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-198" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2870" y="600" as="sourcePoint" />
+            <mxPoint x="-2870" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-199" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3010" y="250" as="sourcePoint" />
+            <mxPoint x="-2870" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-200" value="Сигнал на отключение нагрузки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2992.49" y="550" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-201" value="Звуковая индикация" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3402" y="505" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-202" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3450" y="540" as="sourcePoint" />
+            <mxPoint x="-3450" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-203" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3450" y="540" as="sourcePoint" />
+            <mxPoint x="-3230" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-204" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3450" y="394" as="sourcePoint" />
+            <mxPoint x="-3230" y="394" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuHZtdWxIIQjd2K6WMsj-205" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3230" y="540" as="sourcePoint" />
+            <mxPoint x="-3230" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
